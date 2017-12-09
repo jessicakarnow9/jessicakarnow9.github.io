@@ -1,6 +1,18 @@
-<div id="tabs">
+ <body id="loginbackground">
+ <script src="scripts.js"></script>
+ 
+ <header>
+ <h1>Fashion Madness</h1>
+ </header>
+ 
+ <div id="tabs">
   <button class="tab" onclick="gotopage('home')>home</button>
   <button class="tab" onclick="gotopage('about')>about</button>
   <button class="tab" onclick="gotopage('content')>content</button>
   <button class="tab active" onclick="gotopage('index')>login</button>
  </div>
+
+
+ 
+ 
+ <div class="content"
