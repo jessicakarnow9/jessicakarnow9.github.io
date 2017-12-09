@@ -1,6 +1,7 @@
- header {
-background-color: #00000000;
-color: #000000000
+header {
+background-color: #0000;
+color:#0000000;
+height:64px;
 
 
 #loginbackground {
@@ -8,11 +9,12 @@ background:("              ") no-repeat center center fixed;
 background-size: cover;
 }
 
-
 .content {
 padding: 48px;
 }
 
+
+}
 
 #tabs {
 }
@@ -27,4 +29,12 @@ border: 0;
 font-size: 24px;
 }
 
-tab:hover {
+.tab:hover {
+background-color: #000;
+color: #00000;
+}
+
+
+
+
+*one space=connected; two space=seperate*
