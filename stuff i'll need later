@@ -2,14 +2,29 @@
 background-color: #00000000;
 color: #000000000
 
+
 #loginbackground {
 background:("              ") no-repeat center center fixed;
 background-size: cover;
 }
 
+
 .content {
 padding: 48px;
 }
- 
- 
- <div class="content"
+
+
+#tabs {
+}
+
+.tab {
+width: 25%
+height: 64px;
+margin-right: -4px
+background-color; #00000
+color: #000000
+border: 0;
+font-size: 24px;
+}
+
+tab:hover {
