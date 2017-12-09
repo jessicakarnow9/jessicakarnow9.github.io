@@ -1,18 +1,15 @@
- <body id="loginbackground">
- <script src="scripts.js"></script>
- 
- <header>
- <h1>Fashion Madness</h1>
- </header>
- 
- <div id="tabs">
-  <button class="tab" onclick="gotopage('home')>home</button>
-  <button class="tab" onclick="gotopage('about')>about</button>
-  <button class="tab" onclick="gotopage('content')>content</button>
-  <button class="tab active" onclick="gotopage('index')>login</button>
- </div>
+ header {
+background-color: #00000000;
+color: #000000000
 
+#loginbackground {
+background:("              ") no-repeat center center fixed;
+background-size: cover;
+}
 
+.content {
+padding: 48px;
+}
  
  
  <div class="content"
