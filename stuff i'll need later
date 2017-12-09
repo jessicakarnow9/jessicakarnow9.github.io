@@ -14,8 +14,6 @@ padding: 48px;
 }
 
 
-}
-
 #tabs {
 }
 
@@ -35,6 +33,7 @@ color: #00000;
 }
 
 
-
+function login() {
+var username=document.gt
 
 *one space=connected; two space=seperate*
