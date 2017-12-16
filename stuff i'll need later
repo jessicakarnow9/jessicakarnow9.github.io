@@ -34,6 +34,15 @@ color: #00000;
 
 
 function login() {
-var username=document.gt
+var username=document.getelementbyid('username').value;
+var password=document.getelementbyid('password').value;
+
+if(username='Jessica' && password ==='secret') {
+document.getelementbyid('error').classlist.add('hide');
+window.location.href='home.html';
+}else{
+document.getelementbyid('error').classlist.remove('hide');
+}
+}
 
 *one space=connected; two space=seperate*
